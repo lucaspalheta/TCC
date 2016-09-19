@@ -1,6 +1,9 @@
 %Bibliotecas
 \documentclass[12pt]{abntex2}
+\usepackage{natbib}
 \usepackage[utf8]{inputenc}
+\usepackage[alf]{abntex2cite}
+\bibliographystyle{abntex2-alf}
 \usepackage[a4paper, left=3cm, right=2cm, top=3cm, bottom=2cm]{geometry}
 
 %Instituição
@@ -44,16 +47,15 @@ BACHARELADO EM AGRONOMIA
 \end{capa}
 }
 
-
-
-
-
+%Inicio do Documento----------------------------------------------------------
 \begin{document}
+
 
 \imprimircapa
 
 \imprimirfolhaderosto
 
+%Folha de Aprovação------------------------------------------------------------
 \begin{folhadeaprovacao}
 \begin{center}
 
@@ -85,12 +87,16 @@ Trabalho aprovado. \imprimirlocal, \imprimirdata
 
 \end{folhadeaprovacao}
 
+
+%Dedicatória-------------------------------------------------------------------
 \begin{dedicatoria}
 \vspace*{\fill}
 Este trabalho é dedicado a ....
 \vspace*{\fill}
 \end{dedicatoria}
 
+
+%Agradecimento---------------------------------------------------------------
 \begin{agradecimentos}
 
 Este trabalho é dedicado a ....
@@ -98,6 +104,7 @@ Este trabalho é dedicado a ....
 \end{agradecimentos}
 
 
+%Epigrafe--------------------------------------------------------------------
 \begin{epigrafe}
 
 \vspace*{\fill}
@@ -107,8 +114,10 @@ Este trabalho é dedicado a ....
 
 \end{epigrafe}
 
+\tableofcontents
 
 
+%Resumo em Português--------------------------------------------------------
 \begin{resumo}
 Nos \textit{Fundamentos da Aritmética} (§68), Frege propõe definir explicitamente o operador-abstração `o número de...' por meio de extensões e, a partir desta definição, provar o Princípio de Hume (\textbf{PH}). Contudo, a prova imaginada por Frege depende de uma fórmula (\textbf{BB}) não derivável no sistema em 1884. Acreditamos que a distinção entre sentido e referência e a introdução dos valores de verdade como objetos foram motivadas para justificar a introdução do Axioma IV, a partir do qual um análogo de (\textbf{BB}) é provável. Com (\textbf{BB}) no sistema, a prova do Princípio de Hume estaria garantida. Concomitantemente, percebemos que uma teoria unificada das extensões só é possível com a distinção entre sentido e referência e a introdução dos valores de verdade como objetos. Caso contrário, Frege teria sido obrigado a introduzir uma série de \textbf{Axiomas V} no seu sistema, o que acarretaria problemas com a identidade (Júlio César). Com base nestas considerações, além do fato de que, em 1882, Frege provara as leis básicas da aritmética (carta a Anton Marty), parece-nos perfeitamente plausível que estas provas foram executadas adicionando-se o \textbf{PH} ao sistema lógico de Begriffsschrift. Mostramos que, nas provas dos axiomas de Peano a partir de \textbf{PH} dentro da conceitografia, nenhum uso é feito de (\textbf{BB}). Destarte, não é necessária a introdução do Axioma IV no sistema e, por conseguinte, não são necessárias a distinção entre sentido e referência e a introdução dos valores de verdade como objetos. Disto, podemos concluir que, provavelmente, a introdução das extensões nos \textit{Fundamentos} foi um ato tardio; e que Frege não possuía uma prova formal de \textbf{PH} a partir da sua definição explícita. Estes fatos também explicam a demora na publicação das \textit{Leis Básicas da Aritmética} e o descarte de um manuscrito quase pronto (provavelmente, o livro mencionado na carta a Marty). 
 \vspace{\onelineskip} 
@@ -117,6 +126,8 @@ Nos \textit{Fundamentos da Aritmética} (§68), Frege propõe definir explicitam
 \textbf{Palavras-chave}: Axioma IV; Axioma V; Princípio de Hume; Valores de Verdade; Gottlob Frege. 
 \end{resumo}
 
+
+%Resumo em Lingua Estrangeira-----------------------------------------------
 \begin{resumo}[Abstract]
 \begin{otherlanguage*}{english}
 In \textit{The Foundations of Arithmetic} (§68), Frege proposes to define explicitly the abstraction operator `the number of...' by means of extensions and, from this definition, to prove Hume's Principle (\textbf{HP}). Nevertheless, the proof imagined by Frege depends on a formula (\textbf{BB}), which is not provable in the system in 1884. We believe that the distinction between sense and reference as well as the introduction of Truth-Values as objects were motivated in order to justify the introduction of Axiom IV, from which an analogous of (\textbf{BB}) is provable. With (\textbf{BB}) in the system, the proof of HP would be guaranteed. At the same time, we realize that a unified theory of extensions is only possible with the distinction between sense and reference and the introduction of Truth-Values as objects. Otherwise, Frege would have been obliged to introduce a series of \textbf{Axioms V} in his system, what cause problems regarding the identity (Julius Caesar). Based on these considerations, besides the fact that in 1882 Frege had proved the basic laws of Arithmetic (letter to Anton Marty), it seems perfectly plausible that these proofs carried out by adding \textbf{HP} to the Begriffsschrift's logical system. We show that in the proofs of Peano's axioms from \textbf{HP} within the begriffsschrift, (\textbf{BB}) is not used at all. Thus, the introduction of Axiom IV in the system is not necessary and, consequently, neither the distinction between sense and reference nor the introduction of Truth-Values as objects. From these findings we may conclude that probably the introduction of extensions in The \textit{Foundations} was a late act; and that Frege did not hold a formal proof of \textbf{HP} from his explicit definition. These facts also explain the delay in the publication of \textit{the Basic Laws of Arithmetic} and the abandon of a manuscript almost finished (probably the book mentioned in the letter to Marty).
@@ -126,16 +137,38 @@ In \textit{The Foundations of Arithmetic} (§68), Frege proposes to define expli
 \end{otherlanguage*} 
 \end{resumo}
 
-
+%Lista de Siglas----------------------------------------------------------
 \begin{siglas}
 \item[Sigla] Significado da sigla
 \end{siglas}
 
 
+%Citação-------------------------------------------------------------------
 \begin{citacao}
 Dentre as características de qualidade de trabalhos acadêmicos,
 ao lado da pertinência do tema e dos aspectos relativos ao conteúdo
 abordado no trabalho, consta também o resultado da editoração final
 \end{citacao}
 
+%Elementos Textuais ------------------------------------------------------
+\textual
+%Introdução-------------------------------------------------------------------
+\chapter{Introdução}
+A irrigação no Brasil de acordo com, \cite[]{da2013analise}
+%Irrigação--------------------------------------------------------------------
+\chapter{Irrigação}
+
+%Utilização dos Sistemas de Irrigação
+\section{Utilização dos Sistemas de Irrigação}
+
+
+
+%Informática------------------------------------------------------------------
+\chapter{Informática}
+
+%Portabilidade----------------------------------------------------------------
+\chapter{Portabilidade}
+
+
+\bibliography{abntex2-options.bib}
 \end{document}
