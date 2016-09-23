@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.23)  23 SEP 2016 14:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=latex 2016.9.23)  23 SEP 2016 18:38
 entering extended mode
 **./MODELO_MONOGRAFIA.tex
 (MODELO_MONOGRAFIA.tex
@@ -604,6 +604,9 @@ Package: dropping 1997/06/12 v.0.12
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+\wantedcount=\count115
+\actualcount=\count116
+\actualheight=\dimen126
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
@@ -617,21 +620,13 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: dvips.def on input line 99.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
-File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count115
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics-def\dvips.def"
+File: dvips.def 2016/07/10 v3.1a Driver-dependent file (DPC,SPQR)
 ))
-\Gin@req@height=\dimen126
-\Gin@req@width=\dimen127
+\Gin@req@height=\dimen127
+\Gin@req@width=\dimen128
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
@@ -639,23 +634,23 @@ Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen128
-\captionmargin@=\dimen129
-\captionwidth=\dimen130
-\caption@tempdima=\dimen131
-\caption@indent=\dimen132
-\caption@parindent=\dimen133
-\caption@hangindent=\dimen134
+\captionmargin=\dimen129
+\captionmargin@=\dimen130
+\captionwidth=\dimen131
+\caption@tempdima=\dimen132
+\caption@indent=\dimen133
+\caption@parindent=\dimen134
+\caption@hangindent=\dimen135
 )
-\c@ContinuedFloat=\count116
+\c@ContinuedFloat=\count117
 )
 (abntcite.sty (cvs-id.def)
 Package: abntcite 2005/11/14 v1.29 Chamadas de referencias no texto (NBR10520, 
 NBR10522)
 \minimumbiblabelwidth=\skip58
 \ABCIauxlen=\skip59
-\c@ABCIaux=\count117
-\c@ABCImax=\count118
+\c@ABCIaux=\count118
+\c@ABCImax=\count119
  (nbr10520-2002.def (cvs-id.def)
 File: nbr10520-2002.def 2005/06/22 v1.3 Definicoes para abntcite (NBR10520:2002
 )
@@ -691,21 +686,24 @@ Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: pdftex.def on input line 147.
-)
+Package color Info: Driver file: dvips.def on input line 147.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
 Package: subfig 2005/06/28 ver: 1.3 subfig package
-\c@KVtest=\count119
+\c@KVtest=\count120
 \sf@farskip=\skip70
-\sf@captopadj=\dimen135
+\sf@captopadj=\dimen136
 \sf@capskip=\skip71
 \sf@nearskip=\skip72
-\c@subfigure=\count120
-\c@subfigure@save=\count121
-\c@lofdepth=\count122
-\c@subtable=\count123
-\c@subtable@save=\count124
-\c@lotdepth=\count125
+\c@subfigure=\count121
+\c@subfigure@save=\count122
+\c@lofdepth=\count123
+\c@subtable=\count124
+\c@subtable@save=\count125
+\c@lotdepth=\count126
 \sf@top=\skip73
 \sf@bottom=\skip74
 )
@@ -718,21 +716,21 @@ Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count126
+\c@float@type=\count127
 \float@exts=\toks31
 \float@box=\box54
 \@float@everytoks=\toks32
 \@floatcapt=\box55
 )
 \@float@every@algorithm=\toks33
-\c@algorithm=\count127
+\c@algorithm=\count128
 )
 (algorithmic.sty
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
-\c@ALC@unique=\count128
-\c@ALC@line=\count129
-\c@ALC@rem=\count130
-\c@ALC@depth=\count131
+\c@ALC@unique=\count129
+\c@ALC@line=\count130
+\c@ALC@rem=\count131
+\c@ALC@depth=\count132
 \ALC@tlm=\skip75
 \algorithmicindent=\skip76
 ) (mdwlist.sty
@@ -744,9 +742,9 @@ LaTeX Info: Redefining \bm on input line 208.
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\appendix\appendix.sty"
 Package: appendix 2009/09/02 v1.2b extra appendix facilities
-\c@@pps=\count132
-\c@@ppsavesec=\count133
-\c@@ppsaveapp=\count134
+\c@@pps=\count133
+\c@@ppsavesec=\count134
+\c@@ppsaveapp=\count135
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\carlisle\ltxtable.sty"
 Package: ltxtable 1995/12/11 v0.2 longtable/tabularx merge (DPC)
@@ -756,18 +754,18 @@ Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen136
-\extrarowheight=\dimen137
+\col@sep=\dimen137
+\extrarowheight=\dimen138
 \NC@list=\toks34
 \extratabsurround=\skip77
 \backup@length=\skip78
 )
-\TX@col@width=\dimen138
-\TX@old@table=\dimen139
-\TX@old@col=\dimen140
-\TX@target=\dimen141
-\TX@delta=\dimen142
-\TX@cols=\count135
+\TX@col@width=\dimen139
+\TX@old@table=\dimen140
+\TX@old@col=\dimen141
+\TX@target=\dimen142
+\TX@delta=\dimen143
+\TX@cols=\count136
 \TX@ftn=\toks35
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\longtable.sty"
@@ -776,35 +774,35 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTright=\skip80
 \LTpre=\skip81
 \LTpost=\skip82
-\LTchunksize=\count136
-\LTcapwidth=\dimen143
+\LTchunksize=\count137
+\LTcapwidth=\dimen144
 \LT@head=\box56
 \LT@firsthead=\box57
 \LT@foot=\box58
 \LT@lastfoot=\box59
-\LT@cols=\count137
-\LT@rows=\count138
-\c@LT@tables=\count139
-\c@LT@chunks=\count140
+\LT@cols=\count138
+\LT@rows=\count139
+\c@LT@tables=\count140
+\c@LT@chunks=\count141
 \LT@p@ftn=\toks36
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\supertabular\supertabular.sty"
 Package: supertabular 2004/02/20 v4.1e the supertabular environment
-\c@tracingst=\count141
-\ST@wd=\dimen144
+\c@tracingst=\count142
+\ST@wd=\dimen145
 \ST@rightskip=\skip83
 \ST@leftskip=\skip84
 \ST@parfillskip=\skip85
-\ST@pageleft=\dimen145
-\ST@headht=\dimen146
-\ST@tailht=\dimen147
-\ST@pagesofar=\dimen148
-\ST@pboxht=\dimen149
-\ST@lineht=\dimen150
-\ST@stretchht=\dimen151
-\ST@prevht=\dimen152
-\ST@toadd=\dimen153
-\ST@dimen=\dimen154
+\ST@pageleft=\dimen146
+\ST@headht=\dimen147
+\ST@tailht=\dimen148
+\ST@pagesofar=\dimen149
+\ST@pboxht=\dimen150
+\ST@lineht=\dimen151
+\ST@stretchht=\dimen152
+\ST@prevht=\dimen153
+\ST@toadd=\dimen154
+\ST@dimen=\dimen155
 \ST@pbox=\box60
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
@@ -841,64 +839,6 @@ LaTeX Font Info:    Try loading font information for T1+ptm on input line 66.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count142
-\scratchdimen=\dimen155
-\scratchbox=\box61
-\nofMPsegments=\count143
-\nofMParguments=\count144
-\everyMPshowfont=\toks37
-\MPscratchCnt=\count145
-\MPscratchDim=\dimen156
-\MPnumerator=\count146
-\makeMPintoPDFobject=\count147
-\everyMPtoPDFconversion=\toks38
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
-Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-)
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: float package is loaded.
@@ -916,24 +856,9 @@ LaTeX Font Info:    Try loading font information for T1+phv on input line 5.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
-Package epstopdf Info: Source file: <figures/IF_logo.eps>
-(epstopdf)                    date: 2016-09-23 10:50:09
-(epstopdf)                    size: 95816 bytes
-(epstopdf)             Output file: <figures/IF_logo-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-09-23 10:50:09
-(epstopdf)                    size: 35151 bytes
-(epstopdf)             Command: <epstopdf --outfile=figures/IF_logo-eps-convert
-ed-to.pdf figures/IF_logo.eps>
-(epstopdf)             \includegraphics on input line 7.
-Package epstopdf Info: Output file is already uptodate.
+File: figures/IF_logo.eps Graphic file (type eps)
 
-<figures/IF_logo-eps-converted-to.pdf, id=1, 463.7325pt x 176.66pt>
-File: figures/IF_logo-eps-converted-to.pdf Graphic file (type pdf)
-
-<use figures/IF_logo-eps-converted-to.pdf>
-Package pdftex.def Info: figures/IF_logo-eps-converted-to.pdf used on input lin
-e 7.
-(pdftex.def)             Requested size: 142.26378pt x 54.19525pt.
+<figures/IF_logo.eps>
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 10.
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 10
@@ -974,42 +899,36 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 ) [1
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./figures/IF_logo-eps-con
-verted-to.pdf>]
+]
 \openout2 = `folharosto.aux'.
 
- (folharosto.tex [1
+
+(folharosto.tex
+Underfull \hbox (badness 3547) in paragraph at lines 18--19
+[]\T1/phv/m/n/12 Área de pes-quisa: Apren-di-za-gem de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+[]\T1/phv/m/n/12 Orientador:D.r AMAURI HO-LANDA
+ []
+
+[1
 
 
 ])
 \openout2 = `folhadeaprovacao.aux'.
 
  (folhadeaprovacao.tex
-Package epstopdf Info: Source file: <figures/brasao_republica.eps>
-(epstopdf)                    date: 2016-09-23 10:50:09
-(epstopdf)                    size: 5462983 bytes
-(epstopdf)             Output file: <figures/brasao_republica-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2016-09-23 10:50:09
-(epstopdf)                    size: 1092814 bytes
-(epstopdf)             Command: <epstopdf --outfile=figures/brasao_republica-ep
-s-converted-to.pdf figures/brasao_republica.eps>
-(epstopdf)             \includegraphics on input line 6.
-Package epstopdf Info: Output file is already uptodate.
-
-<figures/brasao_republica-eps-converted-to.pdf, id=14, 421.575pt x 416.55624pt>
-File: figures/brasao_republica-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/brasao_republica-eps-converted-to.pdf>
-Package pdftex.def Info: figures/brasao_republica-eps-converted-to.pdf used on 
-input line 6.
-(pdftex.def)             Requested size: 71.13188pt x 70.27971pt.
+File: figures/brasao_republica.eps Graphic file (type eps)
+ <figures/brasao_republica.eps>
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 15.
  [2
 
 
 
- <./figures/brasao_republica-eps-converted-to.pdf>])
+])
 \openout2 = `dedicatoria.aux'.
 
  (dedicatoria.tex)
@@ -1056,18 +975,18 @@ LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <12> not available
 (Font)              Font shape `T1/phv/b/it' tried instead on input line 2.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 2.
- [8
-
-
-])
+)
 \tf@toc=\write4
 \openout4 = `MODELO_MONOGRAFIA.toc'.
 
- [9] (MODELO_MONOGRAFIA.lof)
+ [8
+
+
+] (MODELO_MONOGRAFIA.lof)
 \tf@lof=\write5
 \openout5 = `MODELO_MONOGRAFIA.lof'.
 
- [10
+ [9
 
 
 ]
@@ -1075,11 +994,11 @@ LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
 \tf@lot=\write6
 \openout6 = `MODELO_MONOGRAFIA.lot'.
 
- [11
+ [10
 
-] (nomenclatura.tex) [12
+] (nomenclatura.tex) [11
 
-] (abreviacoes.tex) [13
+] (abreviacoes.tex) [12
 
 ]
 \openout2 = `introducao.aux'.
@@ -1089,43 +1008,44 @@ LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
 Cap\'{\i }tulo 1.
 LaTeX Font Info:    Font shape `T1/phv/bx/sc' in size <24.88> not available
 (Font)              Font shape `T1/phv/b/sc' tried instead on input line 1.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 6.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 14.
-[14
+) [13
 
 
-])
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 128.
- [15]
+]
 \openout2 = `cap2.aux'.
 
  (cap2.tex
 Cap\'{\i }tulo 2.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 6.
 
-LaTeX Warning: Citation `ana2015' on page 16 undefined on input line 15.
+Underfull \hbox (badness 1910) in paragraph at lines 18--21
+[]\T1/phv/m/n/12 O cres-ci-mento po-pu-la-ci-o-nal tem ge-rado de-manda a cada 
+ano por água,
+ []
 
 
-LaTeX Warning: Citation `sanches2013girassol' on page 16 undefined on input lin
-e 21.
+Underfull \hbox (badness 3895) in paragraph at lines 18--21
+\T1/phv/m/n/12 em con-sequên-cia, a dis-po-ni-bi-li-dade desse re-curso vem tor
+nando-se me-nor
+ []
 
-[16
+[14
 
 
 
 ]
-
-LaTeX Warning: Citation `sanches2013tiftom' on page 17 undefined on input line 
-23.
-
-) [17]
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 22.
+)
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 129.
+ [15] [16]
 \openout2 = `cap3.aux'.
 
  (cap3.tex
 Cap\'{\i }tulo 3.
-) [18
+) [17
 
 
 
@@ -1134,7 +1054,7 @@ Cap\'{\i }tulo 3.
 
  (cap4.tex
 Cap\'{\i }tulo 4.
-) [19
+) [18
 
 
 
@@ -1143,11 +1063,11 @@ Cap\'{\i }tulo 4.
 
  (cap5.tex
 Cap\'{\i }tulo 5.
-) [20
+) [19
 
 
 
-] (MODELO_MONOGRAFIA.bbl) [21
+] (MODELO_MONOGRAFIA.bbl) [20
 
 
 ]
@@ -1164,12 +1084,12 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 
 Apendice A.
-[22
+[21
 
 
 ]
 Apendice B.
-) [23
+) [22
 
 ]
 +-------------------------------------------------------------------+
@@ -1179,35 +1099,14 @@ Apendice B.
 (MODELO_MONOGRAFIA.aux (capa.aux) (folharosto.aux) (folhadeaprovacao.aux)
 (dedicatoria.aux) (agradecimentos.aux) (epigrafe.aux) (resumo.aux)
 (abstract.aux) (introducao.aux) (cap2.aux) (cap3.aux) (cap4.aux) (cap5.aux)
-(appendices.aux))
-
-LaTeX Warning: There were undefined references.
-
- ) 
+(appendices.aux)) ) 
 Here is how much of TeX's memory you used:
- 6978 strings out of 493334
- 96816 string characters out of 3136648
- 179010 words of memory out of 3000000
- 10122 multiletter control sequences out of 15000+200000
- 88145 words of font info for 107 fonts, out of 3000000 for 9000
+ 6182 strings out of 493335
+ 84760 string characters out of 3136674
+ 160238 words of memory out of 3000000
+ 9398 multiletter control sequences out of 15000+200000
+ 61893 words of font info for 75 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,10n,43p,493b,562s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fil
-es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86
-)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
-nts/type1/urw/helvetic/uhvro8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
-e1/urw/symbol/usyr.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/symbo
-l/usyr.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb>
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program
- Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on MODELO_MONOGRAFIA.pdf (24 pages, 1251682 bytes).
-PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36i,10n,43p,553b,562s stack positions out of 5000i,500n,10000p,200000b,50000s
 
+Output written on MODELO_MONOGRAFIA.dvi (23 pages, 21068 bytes).

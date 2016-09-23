@@ -16,13 +16,9 @@ The style file: abnt-alf.bst
 A level-1 auxiliary file: appendices.aux
 Database file #1: abnt-options.bib
 Database file #2: mybibliography.bib
-Warning--I didn't find a database entry for "ana2015"
-Warning--I didn't find a database entry for "sanches2013girassol"
-Warning--I didn't find a database entry for "sanches2013tiftom"
 +---------------------------------------------------------+
 | Estilo bibliografico abnt-alf.bst versao 1.52           |
 | Implementa a NBR6023, NBR10520 e NBR10523               |
 | Em caso de duvidas ou problemas com este estilo procure |
 | http://abntex.codigolivre.org.br                        |
 +---------------------------------------------------------+
-(There were 3 warnings)
