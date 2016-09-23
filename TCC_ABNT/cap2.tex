@@ -1,86 +1,23 @@
-\chapter{Métodos de Kernel}
+\chapter{Panorama Geral de Irrigação}
 \label{CAP2}
 
 
-Este capítulo tem como objetivo 
 
+\section{Conjuntura Mundial}\label{Sub:equa}
 
-\section{Kernel em análise de padrões}\label{Sub:equa}
+A irrigação, utilizada como técnica primordial para os cultivos em áreas com deficit hídrico elevado tem anualmente expandido sua área global, dados do FAOSTAT (2016) mostram que a área irrigada no mundo no ano de 2010 estava na casa dos 320 milhões de hectares, tendo um aumento de 5 milhões de hectares até o ano de 2013.
+A mesma instituição afirma que nos últimos 10 anos o país teve um crescimento de 800 mil hectares irrigados, com acréscimo média de 200 hectares por ano de 2006 até 2010, estabilizando em 5400 hectares até 2013.  
 
-Em análise de padrões, temos como objetivo detectar automaticamente padrões em um conjunto de dados de um determinado problema. Por padrões, podemos entender qualquer relação ou regularidades inerentes à alguma estrutura em uma fonte de dados. Essa análise geralmente é feita a partir dos valores de entrada e suas respectivas saídas(no caso da aprendizagem supervisionada) fornecidas no problema. Essas informações podem formar padrões em que se torna possível verificar o valor de uma saída dada uma nova entrada fornecida pelo usuário. 
+A Agencia Nacional de Água (ANA), órgão que monitora os recursos hídricos do país, informou em 2015 que a demanda conjuntiva de água chegou a 2.275 m cubico/s, tendo como maior contribuinte desse índice o setor de irrigação, detentor da parcela de 55 (porcento) sendo que o segundo maior consumidor de água é o abastecimento humano urbano com apenas 22 (porcento), contudo .
 
-Diversos problemas podem ser resolvidos utilizando esta abordagem, categorização de textos, análise de sequências de DNA, reconhecimento de escrita, por exemplo.
+A área brasileira irrigada no ano de 2014 foi estimada em 6,11 milhões de hectares  ou 21 (porcento) do potencial nacional, que corresponde a 29,6 milhões de hectares, contudo, observa-se expressivo aumento da agricultura irrigada no Brasil, crescendo sempre a taxas superiores às do crescimento da área plantada total.
 
-A abordagem de análise de padrões utilizando métodos de kernel se baseia em adaptar os dados de entrada em um espaço característico adequado e nos algoritmos usados para descobrir os padrões do problema. Levando em conta isso, podemos pensar que qualquer solução com métodos de kernel é composta por estas duas partes: uma em que é feito o mapeamento nesse espaço característico e a outra em que é executado o algoritmo de aprendizagem para detectar os padrões neste espaço. A ideia por trás desta abordagem é poder mapear os dados em um espaço em que possamos 
+Investimentos em irrigação resultam em aumento substancial da produtividade e do valor da produção agrícola, diminuindo a necessidade de expansão em áreas ocupadas por outros usos e coberturas (pastagens ou matas nativas, por exemplo). Aplicando boas práticas de manejo do solo e da água, irrigantes alcançam efciências de uso dos recursos hídricos superiores a 90 (porcento). \cite{ana2015}.
 
-Uma das principais caracerísticas desses métodos é o atalho computacional que pode ser utilizado, tal atalho é conhecido como função de kernel.
+\section{Uso Indevido da Água na Irrigação}
 
+\section{Efeitos da Irrigação na Produção}
 
-O Kernel  é uma função de mapeamento de dados em dimensões superiores com a motivação de torná-los mais fáceis de separar ou estruturá-los de maneira mais adequada. Essas funções podem ser utilizadas nas tarefas de reconhecimento de padrões. 
+Em comparação com áreas não irrigadas a produção por hectare de culturas sob regime de irrigação, demonstra acrécimos em diversas áreas de cultivo. \cite{sanches2013girassol} desenvolvendo trabalhos com girassol, obteve altas significativas em áreas irrigadas, alcançado taxas de 62 (porcento) a mais que em áreas sem regime de irrigação. 
 
-\begin{equation}\label{Eq:multiplicacao}
-%
-Z = X \cdot Y,
-%
-\end{equation}
-%
-em que $Z$, $X$ e $Y$ são variáveis complexas. A referenciação à Equação (\ref{Eq:multiplicacao}) é feita por meio do comando ``ref''. O mesmo vale para outros tipos de elementos.
-
-\subsection{Exemplo de uma equação mais complexa}
-
-  Equações mais complexas podem ser mais facilmente escritas com uso do programa TexAide. Como, por exemplo,
-
-    \begin{equation}\label{Eq:sqrt_gamma_X}
-    f_{\Gamma ^{{1 \mathord{\left/
-    {\vphantom {1 2}} \right.
-    \kern-\nulldelimiterspace} 2}} } (x;\alpha ,\lambda ) = \frac{{2\lambda ^\alpha  }}{{\Gamma (\alpha )}}x^{2\alpha  - 1} \exp \left( { - \lambda x^2 } \right).
-    \end{equation}
-    \[
-    \alpha ,\lambda > 0.
-    \]
-    %
-    em que $\Gamma(\cdot)$ é a função Gama. O programa TexAide é semelhante ao \textit{MathType} do Office, porém ao copiar e colar a equação em um arquivo tex, é gerado o código em LaTex referente a esta equação.
-
-\section{Tabelas}
-
-Tabelas são essenciais na apresentação de dados. A Tabela \ref{Tb:X_models} mostra um exemplo do uso deste tipo de elemento. Vale ressaltar que não é aconselhável o uso de linhas verticais em trabalhos acadêmicos e de pesquisa.
-
-\begin{table}[h]
- \caption{Modelos estatísticos e suas relações.}%
- \label{Tb:X_models}
-  \centering
-\begin{tabular}{c c c c c}
- \hline
- &&&&\\
-                                             &$\alpha ,\lambda  > 0$    &                               &$\alpha ,\lambda \rightarrow\infty$  &Homogêneo \\
-                                             &$\gamma  \to 0$           & Heterogêneo                   &$\alpha / \lambda \rightarrow \beta$ & \\
-                                             &$\mathop  \to \limits^D $ & $\sqrt\Gamma(\alpha,\lambda)$ &$\mathop  \to \limits^P $            &$\sqrt\beta$        \\
-$\mathcal{N}^{-1/2}(x;\alpha,\gamma,\lambda)$& & & &\\
-                                             &$\mathop  \to \limits^D $ & $\Gamma^{-1/2}(\alpha,\gamma)$&$\mathop  \to \limits^P $   &$\sqrt{\zeta^{-1}}$ \\
-                                             &$\lambda \to 0$           &  Extremamente                 &$-\alpha / \gamma \rightarrow \zeta^{-1}$ & \\
-                                             &$-\alpha ,\gamma   > 0$   &  Heterogêneo                  &$-\alpha ,\gamma \rightarrow\infty$ &Homogêneo \\
- &&&& \\
- \hline
- &&&&\\
-                                             &$\alpha ,\lambda  > 0$    &                               &$\alpha ,\lambda \rightarrow\infty$  &Homogêneo \\
-                                             &$\gamma  \to 0$           & Heterogêneo                   &$\alpha / \lambda \rightarrow \beta$ & \\
-                                             &$\mathop  \to \limits^D $ &$\mathcal{K}_A(\alpha,\lambda,n)$&$\mathop  \to \limits^P $&$\sqrt\Gamma(n,n/\beta)$        \\
-$\mathcal{G}_A(z;\alpha,\gamma,\lambda,n)$   & & & &\\
-                                             &$\mathop  \to \limits^D $ & $\mathcal{G}_A^0(\alpha,\gamma,n)$&$\mathop  \to \limits^P $&$\sqrt\Gamma(n,n\zeta)$  \\
-                                             &$\lambda \to 0$           &  Extremamente                 &$-\alpha / \gamma \rightarrow \zeta$ & \\
-                                             &$-\alpha ,\gamma   > 0$   &  Heterogêneo                  &$-\alpha ,\gamma \rightarrow\infty$ &Homogêneo \\
-&&&&   \\
- \hline
-
-\end{tabular}
-\end{table}
-
-
-A Figura \ref{Fig:1} mostra o exemplo do uso do comando ``subfigure''. Apesar de aceitar diferentes tipos de imagens. É preferível que as imagens estejam no formato .eps. Isso garante que a imagem impressa seja exatamente aquela visualizada, como acontece com arquivos pdf.
-
-\begin{figure}[!ht]
-\centering
-\subfloat[]{\includegraphics[scale=.65]{figures/fig1.eps}}\\
-\subfloat[]{\includegraphics[scale=.65]{figures/fig2.eps}}
-\caption{ Curvas de funções de probabilidade: (a) exemplo 1, (b) exemplo 2.} \label{Fig:1}
-\end{figure}
+No senário da pecuária, os estudos de \cite{sanches2013tiftom} com capim tifton 85   sobresemeado com aveia, demonstraram índices mais elevados de matéria seca em kg/ha a partir do segundo siclo de pastejo. Os valores alcançaram a faixa de 82 (porcento) a mais de matéria seca nas parcelas irrigadas. O nível de proteína bruta também verificado apresentou acréscimos significativos.

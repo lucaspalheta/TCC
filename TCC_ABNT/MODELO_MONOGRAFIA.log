@@ -1,18 +1,16 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2016.9.21)  21 SEP 2016 09:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.23)  23 SEP 2016 14:49
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
-**MODELO_MONOGRAFIA.tex
-(./MODELO_MONOGRAFIA.tex
-LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
-(./abnt.cls (./cvs-id.def)
+**./MODELO_MONOGRAFIA.tex
+(MODELO_MONOGRAFIA.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+(abnt.cls (cvs-id.def)
 Document Class: abnt 2005/12/21 v1.31 Classe abnt (NBR6024, NBR6027, NBR6028, N
 BR14724)
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count79
 \calc@Bcount=\count80
@@ -25,8 +23,8 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count81
 \calc@Cskip=\skip43
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
 \c@tracingmulticols=\count82
 \mult@box=\box26
 \multicol@leftmargin=\dimen104
@@ -74,41 +72,41 @@ Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
 \colbreak@box=\box51
 \mc@col@check@num=\count90
 )
-(./abntex-abrev.sty (./cvs-id.def)
+(abntex-abrev.sty (cvs-id.def)
 Package: abntex-abrev 2005/11/14 v1.4 Abreviacoes
- (./nbr10522-1988.def (./cvs-id.def)
+ (nbr10522-1988.def (cvs-id.def)
 File: nbr10522-1988.def 2003/10/13 v1.2 Abreviacoes bibliograficas (NBR10522:19
 88)
 )
-(./abntex-abrev-pt_BR.def (./cvs-id.def)
+(abntex-abrev-pt_BR.def (cvs-id.def)
 File: abntex-abrev-pt_BR.def 2005/11/14 v1.3 definicao de abntex-abrev, traduca
 o de termos en_US/pt_BR
-)) (./abntex-text.sty (./cvs-id.def)
+)) (abntex-text.sty (cvs-id.def)
 Package: abntex-text 2005/11/14 v1.1 abnTeX text replacements
 
-(./abntex-text-pt_BR.def (./cvs-id.def)
+(abntex-text-pt_BR.def (cvs-id.def)
 File: abntex-text-pt_BR.def 2005/12/21 v1.2 Definicao de nomes em Portugues/Bra
 sil (pt_BR)
-)) (./abntex-default-design.sty
-(./cvs-id.def)
+)) (abntex-default-design.sty (cvs-id.def)
 Package: abntex-default-design 2005/06/22 v1.2 Definicoes de design padrao do a
 bntex
- (/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
-Package: relsize 2013/03/29 ver 4.1
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\relsize.sty"
+Package: relsize 2003/07/04 ver 3.1
 
 
-Package relsize Warning: Failed to get list of defined font sizes.
-(relsize)                Size scaling will attempt arbitrary sizes..
+Package relsize Warning: Failed to get list of font sizes.
+(relsize)                Falling back to old definition. on input line 81.
 
 )
 \ABNTanapindent=\skip46
 \ABNTsignwidth=\skip47
 \ABNTsignthickness=\skip48
 \ABNTsignskip=\skip49
-) (./nbr6027-1989.def) (./nbr14724-2001.def)
-(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+) (nbr6027-1989.def) (nbr14724-2001.def)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count91
@@ -124,10 +122,10 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip51
 \bibindent=\dimen113
 )
-(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathptmx.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\mathptmx.sty"
 Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -163,32 +161,32 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\helvet.sty"
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2016/03/03 v2.15a AMS math features
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/06/28 v2.15d AMS math features
 \@mathmargin=\skip52
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks15
 \ex@=\dimen114
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen115
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 1999/12/14 v2.01 operator names
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count100
 LaTeX Info: Redefining \frac on input line 199.
@@ -203,8 +201,8 @@ LaTeX Info: Redefining \cdots on input line 518.
 \Mathstrutbox@=\box52
 \strutbox@=\box53
 \big@size=\dimen116
-LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 \macc@depth=\count105
 \c@MaxMatrixCols=\count106
 \dotsspace@=\muskip10
@@ -225,20 +223,20 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
 \multlinegap=\skip53
 \multlinetaggap=\skip54
 \mathdisplay@stack=\toks19
-LaTeX Info: Redefining \[ on input line 2735.
-LaTeX Info: Redefining \] on input line 2736.
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup6
 \symAMSb=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
 Package: amsthm 2015/03/04 v2.20.2
 \thm@style=\toks20
 \thm@bodyfont=\toks21
@@ -250,40 +248,47 @@ Package: amsthm 2015/03/04 v2.20.2
 \thm@headsep=\skip57
 \dth@everypar=\toks25
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks26
 \verbatim@line=\toks27
 \verbatim@in@stream=\read1
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2016/02/24 3.9q The Babel package
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2016/04/23 3.9r The Babel package
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\babel-portuges\portuges.ldf"
 Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2016/02/24 3.9q Babel common definitions
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2016/04/23 3.9r Babel common definitions
 \babel@savecnt=\count112
 \U@D=\dimen123
 )
 \l@brazilian = a dialect from \language\l@portuges 
 Package babel Info: Making " an active character on input line 145.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks28
 \inpenc@posthook=\toks29
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
-File: utf8.def 2015/12/03 v1.1r UTF-8 support for inputenc
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
-File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -495,11 +500,15 @@ File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+0219 (decimal 537)
    defining Unicode char U+021A (decimal 538)
    defining Unicode char U+021B (decimal 539)
-   defining Unicode char U+01E02 (decimal 7682)
-   defining Unicode char U+01E03 (decimal 7683)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
    defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
    defining Unicode char U+2013 (decimal 8211)
    defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
    defining Unicode char U+2018 (decimal 8216)
    defining Unicode char U+2019 (decimal 8217)
    defining Unicode char U+201A (decimal 8218)
@@ -515,8 +524,8 @@ File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
-File: ot1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -556,8 +565,8 @@ File: ot1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
-File: omsenc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -580,68 +589,74 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
-File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-)) (./dropping.sty
+)) (dropping.sty
 Package: dropping 1997/06/12 v.0.12
 \bigscale=\count113
 \down=\count114
 \saveunitlength=\dimen124
 \wantedheight=\dimen125
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
-\wantedcount=\count115
-\actualcount=\count116
-\actualheight=\dimen126
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: dvips.def on input line 95.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvips.def
-File: dvips.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
-))
-\Gin@req@height=\dimen127
-\Gin@req@width=\dimen128
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count115
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen129
-\captionmargin@=\dimen130
-\captionwidth=\dimen131
-\caption@tempdima=\dimen132
-\caption@indent=\dimen133
-\caption@parindent=\dimen134
-\caption@hangindent=\dimen135
+\captionmargin=\dimen128
+\captionmargin@=\dimen129
+\captionwidth=\dimen130
+\caption@tempdima=\dimen131
+\caption@indent=\dimen132
+\caption@parindent=\dimen133
+\caption@hangindent=\dimen134
 )
-\c@ContinuedFloat=\count117
-) (./abntcite.sty (./cvs-id.def)
+\c@ContinuedFloat=\count116
+)
+(abntcite.sty (cvs-id.def)
 Package: abntcite 2005/11/14 v1.29 Chamadas de referencias no texto (NBR10520, 
 NBR10522)
 \minimumbiblabelwidth=\skip58
 \ABCIauxlen=\skip59
-\c@ABCIaux=\count118
-\c@ABCImax=\count119
- (./nbr10520-2002.def (./cvs-id.def)
+\c@ABCIaux=\count117
+\c@ABCImax=\count118
+ (nbr10520-2002.def (cvs-id.def)
 File: nbr10520-2002.def 2005/06/22 v1.3 Definicoes para abntcite (NBR10520:2002
 )
 )
@@ -650,7 +665,8 @@ LaTeX Info: Redefining \newblock on input line 466.
 LaTeX Info: Redefining \cite on input line 493.
 \ABCItoken=\toks30
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
 \fancy@headwidth=\skip61
 \f@ncyO@elh=\skip62
 \f@ncyO@erh=\skip63
@@ -661,141 +677,140 @@ LaTeX Info: Redefining \cite on input line 493.
 \f@ncyO@olf=\skip68
 \f@ncyO@orf=\skip69
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\makeidx.sty"
 Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 )
-(/usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyphenat\hyphenat.sty"
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
-\langwohyphens=\language81
+\langwohyphens=\language75
 LaTeX Info: Redefining \_ on input line 43.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2016/01/03 v1.1b Standard LaTeX Color (DPC)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: dvips.def on input line 143.
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
-File: dvipsnam.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
 Package: subfig 2005/06/28 ver: 1.3 subfig package
-\c@KVtest=\count120
+\c@KVtest=\count119
 \sf@farskip=\skip70
-\sf@captopadj=\dimen136
+\sf@captopadj=\dimen135
 \sf@capskip=\skip71
 \sf@nearskip=\skip72
-\c@subfigure=\count121
-\c@subfigure@save=\count122
-\c@lofdepth=\count123
-\c@subtable=\count124
-\c@subtable@save=\count125
-\c@lotdepth=\count126
+\c@subfigure=\count120
+\c@subfigure@save=\count121
+\c@lofdepth=\count122
+\c@subtable=\count123
+\c@subtable@save=\count124
+\c@lotdepth=\count125
 \sf@top=\skip73
 \sf@bottom=\skip74
-) (./algorithms.sty
+)
+(algorithms.sty
 
 LaTeX Warning: You have requested package `algorithms',
                but the package provides `algorithm'.
 
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
-(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count127
+\c@float@type=\count126
 \float@exts=\toks31
 \float@box=\box54
 \@float@everytoks=\toks32
 \@floatcapt=\box55
 )
 \@float@every@algorithm=\toks33
-\c@algorithm=\count128
-) (./algorithmic.sty
+\c@algorithm=\count127
+)
+(algorithmic.sty
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
-\c@ALC@unique=\count129
-\c@ALC@line=\count130
-\c@ALC@rem=\count131
-\c@ALC@depth=\count132
+\c@ALC@unique=\count128
+\c@ALC@line=\count129
+\c@ALC@rem=\count130
+\c@ALC@depth=\count131
 \ALC@tlm=\skip75
 \algorithmicindent=\skip76
-)
-(./mdwlist.sty
+) (mdwlist.sty
 Package: mdwlist 1996/05/02 1.1 Various list-related things
-) (/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
-Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
-LaTeX Info: Redefining \bm on input line 207.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\bm.sty"
+Package: bm 2016/07/07 v1.2b Bold Symbol Support (DPC/FMi)
+LaTeX Info: Redefining \bm on input line 208.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\appendix\appendix.sty"
 Package: appendix 2009/09/02 v1.2b extra appendix facilities
-\c@@pps=\count133
-\c@@ppsavesec=\count134
-\c@@ppsaveapp=\count135
+\c@@pps=\count132
+\c@@ppsavesec=\count133
+\c@@ppsaveapp=\count134
 )
-(/usr/share/texlive/texmf-dist/tex/latex/carlisle/ltxtable.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\carlisle\ltxtable.sty"
 Package: ltxtable 1995/12/11 v0.2 longtable/tabularx merge (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen137
-\extrarowheight=\dimen138
+\col@sep=\dimen136
+\extrarowheight=\dimen137
 \NC@list=\toks34
 \extratabsurround=\skip77
 \backup@length=\skip78
 )
-\TX@col@width=\dimen139
-\TX@old@table=\dimen140
-\TX@old@col=\dimen141
-\TX@target=\dimen142
-\TX@delta=\dimen143
-\TX@cols=\count136
+\TX@col@width=\dimen138
+\TX@old@table=\dimen139
+\TX@old@col=\dimen140
+\TX@target=\dimen141
+\TX@delta=\dimen142
+\TX@cols=\count135
 \TX@ftn=\toks35
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\longtable.sty"
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip79
 \LTright=\skip80
 \LTpre=\skip81
 \LTpost=\skip82
-\LTchunksize=\count137
-\LTcapwidth=\dimen144
+\LTchunksize=\count136
+\LTcapwidth=\dimen143
 \LT@head=\box56
 \LT@firsthead=\box57
 \LT@foot=\box58
 \LT@lastfoot=\box59
-\LT@cols=\count138
-\LT@rows=\count139
-\c@LT@tables=\count140
-\c@LT@chunks=\count141
+\LT@cols=\count137
+\LT@rows=\count138
+\c@LT@tables=\count139
+\c@LT@chunks=\count140
 \LT@p@ftn=\toks36
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\supertabular\supertabular.sty"
 Package: supertabular 2004/02/20 v4.1e the supertabular environment
-\c@tracingst=\count142
-\ST@wd=\dimen145
+\c@tracingst=\count141
+\ST@wd=\dimen144
 \ST@rightskip=\skip83
 \ST@leftskip=\skip84
 \ST@parfillskip=\skip85
-\ST@pageleft=\dimen146
-\ST@headht=\dimen147
-\ST@tailht=\dimen148
-\ST@pagesofar=\dimen149
-\ST@pboxht=\dimen150
-\ST@lineht=\dimen151
-\ST@stretchht=\dimen152
-\ST@prevht=\dimen153
-\ST@toadd=\dimen154
-\ST@dimen=\dimen155
+\ST@pageleft=\dimen145
+\ST@headht=\dimen146
+\ST@tailht=\dimen147
+\ST@pagesofar=\dimen148
+\ST@pboxht=\dimen149
+\ST@lineht=\dimen150
+\ST@stretchht=\dimen151
+\ST@prevht=\dimen152
+\ST@toadd=\dimen153
+\ST@dimen=\dimen154
 \ST@pbox=\box60
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/was/icomma.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\was\icomma.sty"
 Package: icomma 2002/03/10 v2.0 (WaS)
 )
 \@indexfile=\write3
@@ -803,10 +818,10 @@ Package: icomma 2002/03/10 v2.0 (WaS)
 
 
 Writing index file MODELO_MONOGRAFIA.idx
-(./modelosCAP.tex) (./MODELO_MONOGRAFIA.aux (./capa.aux) (./folharosto.aux)
-(./folhadeaprovacao.aux) (./dedicatoria.aux) (./agradecimentos.aux)
-(./epigrafe.aux) (./resumo.aux) (./abstract.aux) (./introducao.aux) (./cap2.aux
-) (./cap3.aux) (./cap4.aux) (./cap5.aux) (./appendices.aux))
+(modelosCAP.tex) (MODELO_MONOGRAFIA.aux (capa.aux) (folharosto.aux)
+(folhadeaprovacao.aux) (dedicatoria.aux) (agradecimentos.aux) (epigrafe.aux)
+(resumo.aux) (abstract.aux) (introducao.aux) (cap2.aux) (cap3.aux) (cap4.aux)
+(cap5.aux) (appendices.aux))
 \openout1 = `MODELO_MONOGRAFIA.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
@@ -823,59 +838,131 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
 LaTeX Font Info:    ... okay on input line 66.
 LaTeX Font Info:    Try loading font information for T1+ptm on input line 66.
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count142
+\scratchdimen=\dimen155
+\scratchbox=\box61
+\nofMPsegments=\count143
+\nofMParguments=\count144
+\everyMPshowfont=\toks37
+\MPscratchCnt=\count145
+\MPscratchDim=\dimen156
+\MPnumerator=\count146
+\makeMPintoPDFobject=\count147
+\everyMPtoPDFconversion=\toks38
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: float package is loaded.
 Package caption Info: longtable package is loaded.
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
 Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 )
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \openout2 = `capa.aux'.
 
- (./capa.tex
+ (capa.tex
 LaTeX Font Info:    Try loading font information for T1+phv on input line 5.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
-File: figures/IF_logo.eps Graphic file (type eps)
+Package epstopdf Info: Source file: <figures/IF_logo.eps>
+(epstopdf)                    date: 2016-09-23 10:50:09
+(epstopdf)                    size: 95816 bytes
+(epstopdf)             Output file: <figures/IF_logo-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-09-23 10:50:09
+(epstopdf)                    size: 35151 bytes
+(epstopdf)             Command: <epstopdf --outfile=figures/IF_logo-eps-convert
+ed-to.pdf figures/IF_logo.eps>
+(epstopdf)             \includegraphics on input line 7.
+Package epstopdf Info: Output file is already uptodate.
 
-<figures/IF_logo.eps>
+<figures/IF_logo-eps-converted-to.pdf, id=1, 463.7325pt x 176.66pt>
+File: figures/IF_logo-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/IF_logo-eps-converted-to.pdf>
+Package pdftex.def Info: figures/IF_logo-eps-converted-to.pdf used on input lin
+e 7.
+(pdftex.def)             Requested size: 142.26378pt x 54.19525pt.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 10.
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 10
 .
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 10
 .
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 10
 .
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 10
 .
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 10.
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
@@ -887,30 +974,45 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 ) [1
 
 
-]
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./figures/IF_logo-eps-con
+verted-to.pdf>]
 \openout2 = `folharosto.aux'.
 
-
-(./folharosto.tex [1
+ (folharosto.tex [1
 
 
 ])
 \openout2 = `folhadeaprovacao.aux'.
 
- (./folhadeaprovacao.tex
-File: figures/brasao_republica.eps Graphic file (type eps)
- <figures/brasao_republica.eps>
+ (folhadeaprovacao.tex
+Package epstopdf Info: Source file: <figures/brasao_republica.eps>
+(epstopdf)                    date: 2016-09-23 10:50:09
+(epstopdf)                    size: 5462983 bytes
+(epstopdf)             Output file: <figures/brasao_republica-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2016-09-23 10:50:09
+(epstopdf)                    size: 1092814 bytes
+(epstopdf)             Command: <epstopdf --outfile=figures/brasao_republica-ep
+s-converted-to.pdf figures/brasao_republica.eps>
+(epstopdf)             \includegraphics on input line 6.
+Package epstopdf Info: Output file is already uptodate.
+
+<figures/brasao_republica-eps-converted-to.pdf, id=14, 421.575pt x 416.55624pt>
+File: figures/brasao_republica-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/brasao_republica-eps-converted-to.pdf>
+Package pdftex.def Info: figures/brasao_republica-eps-converted-to.pdf used on 
+input line 6.
+(pdftex.def)             Requested size: 71.13188pt x 70.27971pt.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 15.
-
-[2
-
+ [2
 
 
-])
+
+ <./figures/brasao_republica-eps-converted-to.pdf>])
 \openout2 = `dedicatoria.aux'.
 
- (./dedicatoria.tex)
+ (dedicatoria.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 3--87
 
  []
@@ -922,7 +1024,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--87
 ]
 \openout2 = `agradecimentos.aux'.
 
- (./agradecimentos.tex
+ (agradecimentos.tex
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 1.
 ) [4
@@ -932,25 +1034,24 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <24.88> not available
 ]
 \openout2 = `epigrafe.aux'.
 
- (./epigrafe.tex) [5
+ (epigrafe.tex) [5
 
 
 ]
 \openout2 = `resumo.aux'.
 
- (./resumo.tex) [6
+ (resumo.tex) [6
 
 
 
 ]
 \openout2 = `abstract.aux'.
 
-
-(./abstract.tex) [7
-
+ (abstract.tex) [7
 
 
-] (./MODELO_MONOGRAFIA.toc
+
+] (MODELO_MONOGRAFIA.toc
 LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <12> not available
 (Font)              Font shape `T1/phv/b/it' tried instead on input line 2.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
@@ -962,28 +1063,29 @@ LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
 \tf@toc=\write4
 \openout4 = `MODELO_MONOGRAFIA.toc'.
 
- [9] (./MODELO_MONOGRAFIA.lof)
+ [9] (MODELO_MONOGRAFIA.lof)
 \tf@lof=\write5
 \openout5 = `MODELO_MONOGRAFIA.lof'.
 
  [10
 
 
-] (./MODELO_MONOGRAFIA.lot)
+]
+(MODELO_MONOGRAFIA.lot)
 \tf@lot=\write6
 \openout6 = `MODELO_MONOGRAFIA.lot'.
 
  [11
 
-] (./nomenclatura.tex) [12
+] (nomenclatura.tex) [12
 
-]
-(./abreviacoes.tex) [13
+] (abreviacoes.tex) [13
 
 ]
 \openout2 = `introducao.aux'.
 
- (./introducao.tex
+
+(introducao.tex
 Cap\'{\i }tulo 1.
 LaTeX Font Info:    Font shape `T1/phv/bx/sc' in size <24.88> not available
 (Font)              Font shape `T1/phv/b/sc' tried instead on input line 1.
@@ -1000,80 +1102,58 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
  [15]
 \openout2 = `cap2.aux'.
 
- (./cap2.tex
+ (cap2.tex
 Cap\'{\i }tulo 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-[]\T1/phv/m/n/12 Diversos pro-ble-mas po-dem ser re-sol-vi-dos uti-li-zando est
-a abor-da-gem,
- []
+LaTeX Warning: Citation `ana2015' on page 16 undefined on input line 15.
 
 
-Underfull \hbox (badness 1924) in paragraph at lines 12--13
-\T1/phv/m/n/12 ca-te-go-ri-za-ção de tex-tos, aná-lise de sequên-cias de DNA, r
-e-co-nhe-ci-mento de
- []
+LaTeX Warning: Citation `sanches2013girassol' on page 16 undefined on input lin
+e 21.
 
 [16
 
 
 
 ]
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 49.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
 
+LaTeX Warning: Citation `sanches2013tiftom' on page 17 undefined on input line 
+23.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-File: figures/fig1.eps Graphic file (type eps)
-<figures/fig1.eps>
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 83.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 83.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 83.
-File: figures/fig2.eps Graphic file (type eps)
- <figures/fig2.eps>) [17] [18] [19]
+) [17]
 \openout2 = `cap3.aux'.
 
- (./cap3.tex
+ (cap3.tex
 Cap\'{\i }tulo 3.
-) [20
+) [18
 
 
 
 ]
 \openout2 = `cap4.aux'.
 
- (./cap4.tex
+ (cap4.tex
 Cap\'{\i }tulo 4.
-) [21
+) [19
 
 
 
 ]
 \openout2 = `cap5.aux'.
 
- (./cap5.tex
+ (cap5.tex
 Cap\'{\i }tulo 5.
-) [22
+) [20
 
 
 
-] (./MODELO_MONOGRAFIA.bbl) [23
+] (MODELO_MONOGRAFIA.bbl) [21
 
 
 ]
 \openout2 = `appendices.aux'.
 
- (./appendices.tex
+ (appendices.tex
 LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <20.74> not available
 (Font)              Font shape `T1/phv/b/it' tried instead on input line 1.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <20.74> not available
@@ -1084,29 +1164,50 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 
 Apendice A.
-[24
+[22
 
 
 ]
 Apendice B.
-) [25
+) [23
 
 ]
 +-------------------------------------------------------------------+
 | Comentario, sugestao ou critica sobre o abnTeX? Entre em contato: |
 |                  http://abntex.codigolivre.org.br                 |
 +-------------------------------------------------------------------+
-(./MODELO_MONOGRAFIA.aux (./capa.aux) (./folharosto.aux)
-(./folhadeaprovacao.aux) (./dedicatoria.aux) (./agradecimentos.aux)
-(./epigrafe.aux) (./resumo.aux) (./abstract.aux) (./introducao.aux) (./cap2.aux
-) (./cap3.aux) (./cap4.aux) (./cap5.aux) (./appendices.aux)) ) 
-Here is how much of TeX's memory you used:
- 6194 strings out of 493030
- 84127 string characters out of 6136260
- 164794 words of memory out of 5000000
- 9418 multiletter control sequences out of 15000+600000
- 80749 words of font info for 117 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 37i,11n,51p,627b,564s stack positions out of 5000i,500n,10000p,200000b,80000s
+(MODELO_MONOGRAFIA.aux (capa.aux) (folharosto.aux) (folhadeaprovacao.aux)
+(dedicatoria.aux) (agradecimentos.aux) (epigrafe.aux) (resumo.aux)
+(abstract.aux) (introducao.aux) (cap2.aux) (cap3.aux) (cap4.aux) (cap5.aux)
+(appendices.aux))
 
-Output written on MODELO_MONOGRAFIA.dvi (26 pages, 24524 bytes).
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6978 strings out of 493334
+ 96816 string characters out of 3136648
+ 179010 words of memory out of 3000000
+ 10122 multiletter control sequences out of 15000+200000
+ 88145 words of font info for 107 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 40i,10n,43p,493b,562s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/urw/helvetic/uhvro8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
+e1/urw/symbol/usyr.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/symbo
+l/usyr.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on MODELO_MONOGRAFIA.pdf (24 pages, 1251682 bytes).
+PDF statistics:
+ 140 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
