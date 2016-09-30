@@ -1,0 +1,57 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.52 }
+
+\bibitem[ANA 2015]{ana2015}
+\abntrefinfo{ANA}{Ana}{2015}
+{ANA, Agencia~Nacional de~Água. \textbf{Conjuntura de Recursos Hidricos no
+  Brasil}. 2015.}
+
+\bibitem[Berndardo, Soares \& Mantovani 2006]{bernardo2006}
+\abntrefinfo{Berndardo, Soares \& Mantovani}{Berndardo; Soares;
+  Mantovani}{2006}
+{BERNDARDO, Salassier; SOARES, Antonio~Alves; MANTOVANI, Everardo~Chartuni.
+  \textbf{Manual de Irrigação}. [S.l.: s.n.], 2006.}
+
+\bibitem[Lima, Ferreira \& Christofidis 1999]{lima1999uso}
+\abntrefinfo{Lima, Ferreira \& Christofidis}{Lima; Ferreira;
+  Christofidis}{1999}
+{LIMA, JEFW; FERREIRA, Raquel Scalia~Alves; CHRISTOFIDIS, Demetrios. O uso da
+  irriga{\c{c}}{\~a}o no brasil.
+\textbf{O estado das {\'a}guas no Brasil. Ag{\^e}ncia Nacional de Energia
+  El{\'e}trica. CD-ROM}, 1999.}
+
+\bibitem[Queiroz, Botrel \& Frizzone 2008]{de2008desenvolvimento}
+\abntrefinfo{Queiroz, Botrel \& Frizzone}{Queiroz; Botrel; Frizzone}{2008}
+{QUEIROZ, TADEU~M De; BOTREL, Tarlei~A; FRIZZONE, Jos{\'e}~A. Desenvolvimento
+  de software e hardware para irriga{\c{c}}{\~a}o de precis{\~a}o usando
+  piv{\^o} central.
+\textbf{Revista Brasileira de Engenharia Agr{\'\i}cola e Ambiental}, SciELO
+  Brasil, v.~28, n.~1, p. 44--54, 2008.}
+
+\bibitem[Sanches \textit{et al.} 2013]{sanches2013tifton}
+\abntrefinfo{Sanches \textit{et al.}}{Sanches \textit{et al.}}{2013a}
+{SANCHES, A.C.; GOMES, E.P.; FASOLIN, J.P.; SOARES, M.; FRISKE, E.; SAPIA,
+  J.G.; RICKLI, M.E.; DIAS, D.K.U. Produção de capim tifton 85 com e sem
+  irrigação com sobressemeadura de aveia.
+\textbf{CONIRD - Congresso Nacional de Irrigação e Drenagem}, XXIII, 2013.}
+
+\bibitem[Sanches \textit{et al.} 2013]{sanches2013girassol}
+\abntrefinfo{Sanches \textit{et al.}}{Sanches \textit{et al.}}{2013b}
+{SANCHES, A.C.; GOMES, E.P.; JORDAN, R.A.; BISCARO, G.~A.; GEISENHOFF, L.~O.;
+  SANTOS, S; OLIVEIRA, F.~C.; TENFEN, J.~R. Balanço energético do girassol
+  safra verão irrigado.
+\textbf{CONIRD - Congresso Nacional de Irrigação e Drenagem}, XXIII, 2013.}
+
+\bibitem[Souza \textit{et al.} 2006]{de2006avaliaccao}
+\abntrefinfo{Souza \textit{et al.}}{Souza \textit{et al.}}{2006}
+{SOUZA, Lu{\'\i}s~OC de; MANTOVANI, Everardo~C; SOARES, Antonio~A; RAMOS,
+  M{\'a}rcio~M; FREITAS, Paulo~SL de. Avalia{\c{c}}{\~a}o de sistemas de
+  irriga{\c{c}}{\~a}o por gotejamento, utilizados na cafeicultura1.
+\textbf{R. Bras. Eng. Agr{\'\i}c. Ambiental}, SciELO Brasil, v.~10, n.~3, p.
+  541--548, 2006.}
+
+\end{thebibliography}
