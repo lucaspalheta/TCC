@@ -24,6 +24,7 @@
 \usepackage{indentfirst}
 \usepackage{color}
 \usepackage{icomma}
+\usepackage[fontsize=12pt]{scrextend}
 
 \sloppy
 
@@ -69,13 +70,13 @@
 %
 %%%%%%%%%%%%%%%%%%%%%PARA UTILIZAR ARIAL%%%%%%%%%%%%%%%%%%%%%%%
 %
-\fontfamily{phv}                    %fonte Arial
-\renewcommand{\rmdefault}{phv}      %
+%\fontfamily{phv}                    %fonte Arial
+%\renewcommand{\rmdefault}{phv}      %
 %
 %%%%%%%%%%%%%%%%%%%%%PARA UTILIZAR TIMES%%%%%%%%%%%%%%%%%%%%%%%
 %
-%\fontfamily{ptm}               %fonte Times
-%\renewcommand{\rmdefault}{ptm} %
+\fontfamily{ptm}               %fonte Times
+\renewcommand{\rmdefault}{ptm} %
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -99,9 +100,9 @@
 
 %%%Comandos para criar outras listas não suportadas pelo pacote ABNTex%%%
 %
-\pretextualchapter{Lista de Símbolos}
-\input{nomenclatura}
-\newpage
+%\pretextualchapter{Lista de Símbolos}
+%\input{nomenclatura}
+%\newpage
 
 \pretextualchapter{Lista de Abreviacoes}
 \input{abreviacoes}
@@ -136,8 +137,8 @@
 \bibliographystyle{abnt-alf}
 \bibliography{mybibliography}
 
-\apendice
-\include{appendices}
+%\apendice
+%\include{appendices}
 
 
 \end{document}

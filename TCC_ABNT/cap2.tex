@@ -1,21 +1,36 @@
-\chapter{Panorama Geral de Irrigação}
+\chapter{Objetivos}
+\label{CAP2}
+\section{Objetivo Geral}
+
+Desenvolver ferramenta em ambiente web para auxiliar o dimensionamento de sistemas de irrigação.
+
+\section{Objetivos Específicos}
+
+-Desenvolver um sistema com características de portabilidade, capaz de dimensionar de forma rápida e precisa um sistema de irrigação nos métodos: aspersão convencional, microaspersão e gotejamento.
+
+-Gerar um relatório com as informações de dimensionamento hidráulico do sistema de irrigação, a partir das informações inseridas.
+
+\chapter{Revisão Bibliográfica}
 \label{CAP2}
 
 
 
 \section{Conjuntura Mundial}\label{Sub:equa}
 
-A irrigação, utilizada como técnica primordial para os cultivos em áreas com deficit hídrico elevado tem anualmente expandido sua área global, dados do FAOSTAT (2016) mostram que a área irrigada no mundo no ano de 2010 estava na casa dos 320 milhões de hectares, tendo um aumento de 5 milhões de hectares até o ano de 2013.
+A irrigação, utilizada como técnica primordial para os cultivos em áreas com deficit hídrico elevado, tem anualmente expandido sua área global, dados do FAOSTAT (2016) mostram que a área irrigada no mundo no ano de 2010 estava na casa dos 320 milhões de hectares, tendo um aumento de 5 milhões de hectares até o ano de 2013.
 A mesma instituição afirma que nos últimos 10 anos o país teve um crescimento de 800 mil hectares irrigados, com acréscimo média de 200 mil por ano de 2006 até 2010, estabilizando em 5400 mil hectares até 2013.  
 
-A Agencia Nacional de Água (ANA), órgão que monitora os recursos hídricos do país, informou em 2015 que a demanda conjuntiva de água chegou a 2.275 m cubico/s, tendo como maior contribuinte desse índice o setor de irrigação, detentor da parcela de 55 (porcento) sendo que o segundo maior consumidor de água é o abastecimento humano urbano com apenas 22 (porcento), contudo .
+A Agencia Nacional de Água (ANA), órgão que monitora os recursos hídricos do país, informou em 2015 que a demanda conjuntiva de água chegou a 2.275 m cubico/s, tendo como maior contribuinte desse índice o setor de irrigação, detentor da parcela de 55 (porcento) sendo que o segundo maior consumidor de água é o abastecimento humano urbano com apenas 22 (porcento).
 
 A área brasileira irrigada no ano de 2014 foi estimada em 6,11 milhões de hectares  ou 21 (porcento) do potencial nacional, que corresponde a 29,6 milhões de hectares, contudo, observa-se expressivo aumento da agricultura irrigada no Brasil, crescendo sempre a taxas superiores às do crescimento da área plantada total.
 
 Investimentos em irrigação resultam em aumento substancial da produtividade e do valor da produção agrícola, diminuindo a necessidade de expansão em áreas ocupadas por outros usos e coberturas (pastagens ou matas nativas, por exemplo). Aplicando boas práticas de manejo do solo e da água, irrigantes alcançam efciências de uso dos recursos hídricos superiores a 90 (porcento). \cite{ana2015}.
 
 \section{Uso Indevido da Água na Irrigação}
+
 O crescimento populacional tem gerado demanda a cada ano por água, em consequência, a disponibilidade desse recurso vem tornando-se menor gradativamente, e o reflexo vem sendo observado não só no na escassez do elemento em si como na expansão das fronteiras agrícolas e à degradação do meio ambiente. Sendo a água um recurso indispensável à vida, é de fundamental importância a discussão das relações entre o homem e a água, uma vez que a sobrevivência das gerações futuras depende diretamente das decisões que hoje estão sendo tomadas \cite{lima1999uso}.
+
+Para tal, é de necessário que as atividades que demandam grandes volumes de água sejam manejadas de forma a proporcionar o uso racional desse elemento. A irrigação como detentora de grande parcela de uso de água deve ser projetada e acompanhada com a devida cautela, utilizando o recurso, garantindo a perenidade do meio e produzindo em conformidade com a necessidade humana. Assim a primeiro fator a ser considerado é o tipo de sistemas mais adequado a situação local.
 
 A escolha do sistema mais adequado depende de diversos fatores, \cite{de2006avaliaccao} enumera a topografia e o tipo de solo, a fonte de água (localização, vazão, qualidade), o sistema de plantio e o custo do equipamento e de operação. Contudo, no mesmo trabalho afirma que os sistemas que inicialmente tiveram um inadequado dimensionamento hidráulico, tiveram sua uniformidade de aplicação deficitária, causando decréscimo na produtividade devido ao uso irracional da água.
 
@@ -40,6 +55,42 @@ A água necessária é definida por \cite{bernardo2006} como sendo a quantidade 
 
 Por definição a evapotranspiração consiste na somatória da evaporação do solo, e da transpiração ocorrida na planta durante determinado período. Para que tal processo ocorra é necessário que haja temperatura e umidade do ar, gerando a energia necessária para evaporação da água. Observa-se que o a atmosfera atua como dreno do solo, retirando a água aderida nas partículas.
 
+\section{Evapotranspiração}
+
+%\cite{azevedonetto} 
+Após a utilização, as plantas liberam para a atmosfera em forma de vapor a maior parte da água consumida. A quantidade de água que a planta retira do solo do solo é denominada Evapotranspiração Real (ETr).Contudo para uma melhor análise em relação a capacidade real de consumo de água pela planta estima-se a Evapotranspiração Potencial (ETp) onde parte-se do pressuposto de que a cultura se encontra em plena atividade vegetativa, com sanidade perfeita e sem restrições de água no solo, assumindo que este se encontra em capacidade de campo, ou seja, solo úmido porém não saturado, assim a disponibilidade de água a planta é máxima. Ainda há a estimativa de Evapotranspiração de referência (ET0) onde a verificação da quantidade de água é realizada através de uma área com cultura rasteira implantada a qual sombreia toda a área.
+
+Para a determinação da Evapotranspiração potencial (ETp) utiliza-se a equação $ETp=Kc x ET_{0}$, expressa em mm/dia ou mm/mês, na qual o Kc representa o coeficiente de cultivo que depende da cultura, das condições climáticas, do período do ciclo vegetativo e da produção de biomassa, e pode ser verificado na tabela (adicionar a tabela do livro manual de hidráulica pg 532) 
+
+A evaporação da água em tanque é influenciada pela integração de fatores como radiação solar, vento, temperatura e umidade do ar. A transpiração das plantas também sofre influência destes mesmos fatores, assim a correlação de evaporação do tanque com a evaporação de referência é válida, contudo faz-se necessário a utilização de um fator de correção dependente dos valores locais das variáveis citadas acima.
+
+Dessa forma, a equação utilizada para o cálculo de $ET_{0}$ é a $ET_{0}=Kp x E_{0}$, onde o Kp representa o coeficiente d tanque obtido na tabala (anexar tabela do livro manual de hidráulica pg 354), e o E0 representa a evaporação de água do tanque.
+
+
+\section{Solo}
+
+O solo de acordo com 
+%\cite{azevedonetto2015}
+ é um sistema trifásico, heterogêneo e disperso, o qual se constitui por partículas sólida, componentes da fase sólida, a solução do solo correspondente a fase líquida e pelo ar que caracteriza a fase gasosa. O tamanho, composição e forma das partículas sólidas determinam a interação das fases sólidas e líquidas e sua conformação no sistema. Para a irrigação, as características de interesse são densidade aparente, determinada pela razão da massa pelo volume do solo; a segunda característica é a porosidade, o qual é a relação entre o volume de poros no solo e o volume total. Como terceiro fator importante à irrigação está o teor de umidade em que se calcula a massa de água e a massa das partículas secas e faz-se uma razão entre os valores. A textura do solo é outro fator importante , ela é constituida pela quantidade e tamanho das partículas do solo, verificada através de testes de suspensão de partículas em água.  
+ 
+Como substrato natural do crescimento vegetal, o solo desempenha o papel de recipiente armazenador da água utilizada pela planta, dessa forma para que haja o dimensionamento adequado do sistema é necessário o conhecimento das características referentes a esse armazenamento, das quais a capacidade de campo e o ponto de murchamento são de maior interesse.
+
+A capacidade de campo é definida como a quantidade de água que um solo pode reter depois de cessada a drenagem natural. Essa capacidade é considerada o limite superior da disponibilidade de água do solo. O ponto de murchamento por outro lado refere-se ao teor de água presente no solo a partir do qual as plantas não conseguem retirar água. Normalmente obtido quando a adesão da água as partículas do solo está em torno de 1.500 kPa \cite{azevedonetto2015}.
+
+De posse destes valores é torna-se possível a determinação da lâmina de água disponível no solo, obtida pela equação: 
+\begin{center}
+
+\begin{math}
+LA=(\frac{CC-PM}{10})*H
+\end{math}
+
+\end{center}
+Onde o H representa a altura considerada do solo irrigado, geralmente utilizada a profundidade efetiva das raízes.
+
+Esse valor é de extrema importância para o dimensionamento, já que determina a capacidade máxima de retenção de água no solo, evitando assim uma super-aplicação e consequente perdas econômicas e ambientais como degradação e salinização do solo.
+
+Sabendo a capacidade total de água que o solo pode reter, torna-se necessário ter o conhecimento da velocidade máxima de absorção de água, denominada de Velocidade de Infiltração Básica (VIB). Esse parâmetro é determinado por diversos métodos, a exemplo o método de infiltração por anéis de infiltração citado por \cite{carvalhosilva2006}. O autor afirma que a infiltração é um processo de grande importância prática, pois afeta diretamente o escoamento superficial, que é o componente do ciclo hidrológico responsável pelos processos de erosão e inundações. Assim a correta definição da velocidade de infiltração básica agregada ao conhecimento da capacidade total de retenção de água dão subsídios para a escolha adequada da intensidade de aplicação e o tempo necessário para que a mesma sela realizada.
+
 \section{Tipos de Sistemas}
 
 \subsection{Sistema de Aspersão}
@@ -53,3 +104,5 @@ Os sistemas de irrigação por aspersão apresentam aspersores com maior vazão,
 Em geral, os sistemas de aspersão são constituídos por um conjunto moto bomba, tubulações de sucção, recalque, principal, com linhas laterais, há também a possibilidade de apresentar, acoplada a linha principal, linhas de derivação as quais tem a função de distribuição da água para as linhas laterais. Apresenta também acessórios como válvulas e reguladores de pressão, além de aspersores.
 
 \subsection{Sistema de Gotejamento}
+
+\subsection{Sistema de Microaspersão}
